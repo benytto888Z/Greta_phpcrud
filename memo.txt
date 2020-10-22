@@ -1,0 +1,10 @@
+A_Z pour les chaine commençant par A finissant par Z avec une lettre quelconque entre les deux(un underscore= une lettre )
+
+'ass%' pour tout les mots commençant par ass
+
+'%ass' pour tout les mots finissant par ass
+
+'%ass%'pour tout le mots contenant ass peut importe ou
+
+voila...
+en espérant que ca aide
